@@ -1,3 +1,21 @@
+Hacker News Search Clone
+
+This app allows the user to search Hacker News Api by various categories such as article title, author and date.
+
+The user must select the search type prior to entering a search term. (still trying to rework it to make it work where a search term is typed, then category selected and finally submitted)
+
+Once results appear, search bar can be used to filter articles using keywords within the results.
+
+To begin a new search, clear search bar and select category as before.
+
+Articles - articles may be searched by title and results are filterable with keywords.
+
+Authors - authors may be searched by author name and results are filterable with keywords.
+
+Date - articles are sorted by date, with more recent first. Results are filterable with keywords.
+
+#####################################################################
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

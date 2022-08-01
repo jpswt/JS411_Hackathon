@@ -1,0 +1,68 @@
+.navbar {
+	background: hsl(24, 100%, 55%);
+	width: 100%;
+	min-height: 3.8rem;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	gap: 1rem;
+}
+
+.logo {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	gap: 1rem;
+}
+
+h2 {
+	margin: 0 0 0 1rem;
+	padding-left: 0.5rem;
+	padding-right: 0.5rem;
+	color: white;
+	border: 1px white solid;
+	font-size: 2rem;
+	font-weight: 400;
+}
+
+h3 {
+	margin: 0;
+	padding: 0;
+	font-weight: 500;
+}
+
+form {
+	display: flex;
+	align-items: center;
+}
+
+input {
+	height: 2.2rem;
+	font-size: 1.2rem;
+	outline: none;
+	border-color: none;
+	width: 46rem;
+}
+
+select {
+	width: 10rem;
+	min-height: 2.5rem;
+	margin-left: 1rem;
+	padding: 0 0.1rem;
+	outline: none;
+	background: none;
+	color: white;
+	border: 1px white solid;
+	cursor: pointer;
+	font-size: 1rem;
+	font-weight: 500;
+}
+
+.button {
+	width: 8rem;
+	background: none;
+	border: 1px white solid;
+	margin-left: 1rem;
+	color: white;
+	cursor: pointer;
+}
